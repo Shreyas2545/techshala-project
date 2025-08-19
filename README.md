@@ -1,7 +1,6 @@
 # Techshala Projects (Vidyalkankar-2025 Hackathon)
 
-A collection of innovative **Techshala** projects built using **HTML** and **Vanilla CSS**, presented by my team at the Vidyalkankar-2025 college hackathon. These projects showcase creativity and problem-solving skills for real-world applications.
-
+A **Techshala** projects built using **HTML** and **Vanilla CSS**, presented by my team at the Vidyalkankar-2025 college hackathon. These projects showcase about the work of techshala contributed over the years and by hosting several events which makes learning enjoyable.
 ---
 
 ## 🖼 Screenshot
